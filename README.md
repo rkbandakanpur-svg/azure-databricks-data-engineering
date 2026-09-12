@@ -26,6 +26,7 @@ The project follows a Medallion Architecture:
 - Delta Lake
 - Unity Catalog
 - GitHub
+- Lakflow Jobs
 
 ## Project Structure
 
